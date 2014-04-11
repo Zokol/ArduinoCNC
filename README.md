@@ -1,7 +1,7 @@
 ArduinoCNC
 ==========
 
-CNC controller based on Arduino UNO
+CNC controller using Arduino UNO
 
 This was created in 2011 as an final project for Embedded Development-course (Sulautetut Prosessorijärjestelmät) in University of Turku
 
